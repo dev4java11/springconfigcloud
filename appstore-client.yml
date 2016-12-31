@@ -1,7 +1,7 @@
 configuration:  
-  projectName: application
+  projectName: APLICACION STORE
 server:  
   port: 8000
 message:  
-  greeting: Hello from the 
-nombre: paola
+  greeting: HOLA MUNDO
+nombre: HERNAN ROSAS NUTZ
