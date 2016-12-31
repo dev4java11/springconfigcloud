@@ -1,0 +1,7 @@
+configuration:  
+  projectName: APLICACION STORE
+server:  
+  port: 8000
+message:  
+  greeting: HOLA MUNDO
+nombre: HERNAN ROSAS NUTZ
